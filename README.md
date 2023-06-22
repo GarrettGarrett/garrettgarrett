@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
 <h3 align="center">A passionate frontend developer from Bothell, Washington</h3>
 
-- 🔭 I’m currently building [GoodieRun](https://goodie.company/) & [SneakerSync](https://whop.com/sneaker-sync)
+- 🔭 I’m currently building [GoodieRun](https://goodie.company/) & [SneakerSync](https://www.sneakersync.app/landing))
 
-- 👨‍💻 All of my projects are available at [https://www.garrettfelix.com](https://www.garrettfelix.com)
+- 👨‍💻 All of my projects are available at [garrettfelix.com](https://www.garrettfelix.com)
 
 - 📫 How to reach me **skfelix1@gmail.com**
 
