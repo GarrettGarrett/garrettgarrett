@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garrett</h1>
-<h3 align="center">A passionate frontend developer from Bothell, Washington</h3>
+<h3 align="center">A fullstack software developer from Bothell, Washington</h3>
 
 - 🔭 I’m currently working on [GoodieRun](https://mobile.twitter.com/GoodieRun)
 
