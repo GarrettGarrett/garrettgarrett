@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [GoodieRun](https://mobile.twitter.com/GoodieRun)
 
-- 👨‍💻 All of my projects are available at [https://www.garrettfelix.com](https://www.garrettfelix.com)
-
-- 📫 How to reach me **skfelix1@gmail.com**
+- 👨‍💻 All of my projects are available at [garrettfelix.com](https://www.garrettfelix.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
